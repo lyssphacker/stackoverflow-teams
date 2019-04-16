@@ -6,3 +6,5 @@ Bottom line: Stackoverlow for Instafin
 Why searching Slack history is not good enough?
 
 SO Teams might help in onboarding new BE devs. There is always somebody leaving and joining.
+
+Some of the Slack exchanges are educational and should be recorded. Idea is that SO Teams with Slack integration can be used for that purpose.
