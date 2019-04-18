@@ -19,3 +19,7 @@ SO - Slack integration is crucial
 SO has better text editing capabilities.
 
 SO has better capabilities for discussion.
+
+2 aspects of the knowledgebase to take into account:
+1. data entry
+2. data retrieval
