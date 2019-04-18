@@ -10,3 +10,12 @@ SO Teams might help in onboarding new BE devs. There is always somebody leaving 
 Some of the Slack exchanges are educational and should be recorded. Idea is that SO Teams with Slack integration can be used for that purpose.
 
 Are Slack searching capabilities good enough? What SO contributes? Linking similar questions and tagging?
+
+SO vs Slack search:
+1. SO has tags, related questions, better search
+
+SO - Slack integration is crucial
+
+SO has better text editing capabilities.
+
+SO has better capabilities for discussion.
