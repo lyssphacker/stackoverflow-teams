@@ -29,3 +29,5 @@ Issue with searching Slack channels: a lot of discussion naturally happens on pr
 Inefficiency of asking questions on Slack: even if somebody did know the answer to the question 6 months ago, it is very likely that he will have to remind himself thourougly again, which wastes time. Why not store knowledge to some easily accessible knowledge base?
 
 Slack + Stack Overflow for Teams -> https://stackoverflow.com/teams/integrations/slack
+
+Examine utility of SO for teams in the context of bugmastering.
