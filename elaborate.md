@@ -43,3 +43,5 @@ It’s expensive and time-consuming to answer the same questions over and over. 
 A challenge for teams of all sizes is ramping up new coworkers fast without taking up too much of everyone’s time. Give the newest members of your team instant access to everything they need to know in your private Stack Overflow community.
 
 SO Teams site explains what the sw is about nicely. The question is whether this addresses oradian's needs.
+
+SO Teams can also become stale. Yes, but you can ask a question, in the context of existing thread of discussion.
