@@ -31,3 +31,13 @@ Inefficiency of asking questions on Slack: even if somebody did know the answer 
 Slack + Stack Overflow for Teams -> https://stackoverflow.com/teams/integrations/slack
 
 Examine utility of SO for teams in the context of bugmastering.
+
+From https://stackoverflow.com/teams?utm_source=so-owned&utm_medium=house-ads&utm_campaign=so4b-launch&utm_content=lb-2:
+1. Unlock knowledge
+Your team has knowledge buried in old docs, emails, chat messages—and in people’s heads. Stack Overflow gives your team a private, secure home for questions and answers, reducing siloed knowledge and the time it takes to find the right information.
+
+2. Free up resources
+It’s expensive and time-consuming to answer the same questions over and over. By making the right information searchable, your private Stack Overflow community serves as the centralized source-of-truth, allowing your entire team to focus on building better software.
+
+3. Onboard faster
+A challenge for teams of all sizes is ramping up new coworkers fast without taking up too much of everyone’s time. Give the newest members of your team instant access to everything they need to know in your private Stack Overflow community.
