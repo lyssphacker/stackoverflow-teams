@@ -44,4 +44,6 @@ A challenge for teams of all sizes is ramping up new coworkers fast without taki
 
 SO Teams site explains what the sw is about nicely. The question is whether this addresses oradian's needs.
 
-SO Teams can also become stale. Yes, but you can ask a question, in the context of existing thread of discussion.
+SO Teams can also become stale. Yes, but you can ask a question, in the context of existing thread of discussion.  
+
+SO Teams might replace notes devs make for themselves individually.
