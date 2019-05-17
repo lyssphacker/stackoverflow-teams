@@ -47,3 +47,7 @@ SO Teams site explains what the sw is about nicely. The question is whether this
 SO Teams can also become stale. Yes, but you can ask a question, in the context of existing thread of discussion.  
 
 SO Teams might replace notes devs make for themselves individually.
+
+Links from the web:
+https://www.joelonsoftware.com/2018/05/03/announcing-stack-overflow-for-teams/
+https://news.ycombinator.com/item?id=16985125
