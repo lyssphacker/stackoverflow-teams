@@ -51,3 +51,5 @@ SO Teams might replace notes devs make for themselves individually.
 Links from the web:
 https://www.joelonsoftware.com/2018/05/03/announcing-stack-overflow-for-teams/
 https://news.ycombinator.com/item?id=16985125
+
+On Slack, one has to read the whole discussion to get the point. On SO Teams, it is often enough to read just a comment flagged as 'correct'.
